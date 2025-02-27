@@ -7,4 +7,4 @@
 - Matricula: 885454
 
 ## Print da tela da página criad
-![Preview do Currículo](preview.png)
+![Preview do Currículo](preview.jpeg)

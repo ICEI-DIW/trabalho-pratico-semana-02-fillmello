@@ -74,6 +74,9 @@ ul{
 .perfil{
 
     margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 260px;
    
 }
 
@@ -81,17 +84,18 @@ ul{
 .header1{
 
     background-color: #22333b;
-    height: 310px;
+    height: 300px;
     color: #eae0d5;
 
 }
 
 .facul{
 
-    font-size: 40px;
+    font-size: 35px;
     float: left;
     display: block;
     width: 60%;
+    margin-top: 10px;
 }
 
 
@@ -129,8 +133,12 @@ ul{
   
     background-color: #c6ac8f;
     height: 428px;
-    width: 220px;
-    margin: 20px;
+
+    margin: 18px;
+    margin-right: 50px;
+    display: block;
+    width: 19%;
+
 
 }
 
@@ -190,6 +198,7 @@ display: block;
     display: inline;
     
     
+    
     }
 
 
@@ -237,5 +246,23 @@ margin-top: 34px;
 .AWS{
 
 margin-top: -20px;
+
+}
+
+.Certificados{
+
+    margin-top: 20px;
+
+
+}
+
+
+
+
+
+.div2{
+
+    margin-left: 170px;
+
 
 }
