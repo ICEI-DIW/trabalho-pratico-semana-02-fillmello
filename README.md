@@ -6,5 +6,5 @@
 - Nome: Filipe Melo
 - Matricula: 885454
 
-## Print da tela da página criad
+## Print da tela da página criada
 ![Preview do Currículo](preview.jpeg)
