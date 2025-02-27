@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Filipe Melo
+- Matricula: 885454
 
 ## Print da tela da página criad
+![Preview do Currículo](preview.png)
