@@ -7,4 +7,4 @@
 - Matricula: 885454
 
 ## Print da tela da página criad
-![preview do currículo](https://file%2B.vscode-resource.vscode-cdn.net/Users/mello/Documents/Visual%20Studio%20Code/PUC%20MINAS/1%20%C2%BA%20Semestre/Desenvolvimento%20de%20Interfaces%20Web/Semana%202/Curr%C3%ADculo/trabalho-pratico-semana-02-fillmello/preview.png?version%3D1740625733273)
+![Preview do Currículo](preview.png)
